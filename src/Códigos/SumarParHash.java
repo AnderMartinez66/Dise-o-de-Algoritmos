@@ -1,3 +1,5 @@
+package Códigos;
+
 import java.util.HashSet;
 
 public class SumarParHash {
